@@ -1,0 +1,269 @@
+[33mcommit ece2ea1936116eda48f9278e10ec48a972d0fdca[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Lasse Jørgensen <28780271+lasjorg@users.noreply.github.com>
+Date:   Mon Jun 3 22:35:08 2024 +0200
+
+    fix(config): remove theme config (#111)
+
+[33mcommit cd1ce67879ad0fbb91d1173316deb45573b2d111[m
+Author: Kristofer Koishigawa <scissorsneedfoodtoo@gmail.com>
+Date:   Wed Feb 14 23:24:03 2024 +0900
+
+    feat: init gitpod config (#103)
+    
+    * feat: init gitpod config
+    
+    * fix: default to port 3000, add sample.env file, and ignore .env file
+
+[33mcommit 3c7f56f8eddb917452d0e066761d93a997c95004[m
+Author: arjunpras <96985754+arjunpras@users.noreply.github.com>
+Date:   Sat Dec 2 11:15:37 2023 +0530
+
+    fix: use correct heading levels (#100)
+
+[33mcommit bbe844ac44f95b1ae445bf450e2aa4028c081e33[m
+Author: Prince Mendiratta <prince.mendi@gmail.com>
+Date:   Sat Dec 3 07:28:27 2022 +0530
+
+    fix: remove .replit file (#85)
+    
+    Signed-off-by: Prince Mendiratta <prince.mendi@gmail.com>
+    
+    Signed-off-by: Prince Mendiratta <prince.mendi@gmail.com>
+
+[33mcommit 37c3a6ae7e9cf7a4df1af266a24f0a45be52f434[m
+Author: Lasse Jørgensen <28780271+lasjorg@users.noreply.github.com>
+Date:   Sat Jul 16 01:46:14 2022 +0200
+
+    fix(config/chore): update config, .gitattributes, chores (#79)
+    
+    * fix(config/chore): update config, .gitattributes, chores
+    
+    * fix: format
+    
+    * chore(config): unify configs
+
+[33mcommit 4a94073cabc56841b18fc13b62632484980583ae[m
+Author: Naomi Carrigan <nhcarrigan@gmail.com>
+Date:   Tue May 3 15:43:36 2022 -0700
+
+    chore: clarify readme (#71)
+
+[33mcommit 6533033b7db5bb06490d3f409555303217756b8e[m
+Author: Kealan Parr <kealantparr@gmail.com>
+Date:   Tue May 3 21:36:35 2022 +0100
+
+    fix: rename server.js to index.js for replit debugging (#69)
+
+[33mcommit f1efd129d30291257344ae9389dc6a155086e029[m
+Author: gikf <60067306+gikf@users.noreply.github.com>
+Date:   Mon Apr 19 13:27:56 2021 +0200
+
+    fix: update routes to new ones (#55)
+
+[33mcommit 83e39bcd89b4e36f2ddab2fc906f6400ac9797a0[m
+Author: Shaun Hamilton <2397860h@student.gla.ac.uk>
+Date:   Tue Mar 9 15:27:46 2021 +0000
+
+    Revert "test: push from REPL by Shaun"
+    
+    This reverts commit 5d31a31222d76e32038576aeb4c6c878e19926a5.
+
+[33mcommit 5d31a31222d76e32038576aeb4c6c878e19926a5[m
+Author: Shaun Hamilton <2397860h@student.gla.ac.uk>
+Date:   Tue Mar 9 15:18:10 2021 +0000
+
+    test: push from REPL by Shaun
+
+[33mcommit 45dea089dd8550bf6bbdd3ee5e5439c89e69d8c2[m
+Author: Jordan Rendall <35584288+jordanrendall@users.noreply.github.com>
+Date:   Thu Dec 24 13:33:24 2020 -0500
+
+    chore: remove node engine from package.json (#16)
+    
+    * Updated node engine to 10.15.1
+    
+    * Update package.json
+    
+    * Update package.json
+    
+    * Update package.json
+    
+    Co-authored-by: Tom <20648924+moT01@users.noreply.github.com>
+
+[33mcommit f9594b822f511df36a9f9df446fe75028b232c0e[m
+Author: Nicholas Carrigan (he/him) <nhcarrigan@gmail.com>
+Date:   Thu Dec 24 06:31:49 2020 -0800
+
+    Remove engine from package.json (#48)
+    
+    Signed-off-by: nhcarrigan <nhcarrigan@gmail.com>
+
+[33mcommit 74da23725fb4ef536abe51719439f4790c724453[m
+Author: Tom <20648924+moT01@users.noreply.github.com>
+Date:   Tue Nov 10 12:32:15 2020 -0600
+
+    fix: remove user stories from landing page and readme (#43)
+    
+    * fix: remove user stories from landing page and readme
+    
+    * fix: update favicon, title
+
+[33mcommit 788466b640af73bebfd034c3326b213f61b1e633[m
+Author: Ihsan Topaloglu <itopaloglu83@gmail.com>
+Date:   Tue Sep 15 03:42:04 2020 -0400
+
+    fix: CORS configuration option
+
+[33mcommit a9b12d4bb9f0d4c97b4b6dfa5c7c347da22419fd[m
+Author: Obaida Albaroudi <obaida@repl.it>
+Date:   Tue Jul 7 23:26:23 2020 +0000
+
+    Added .replit
+    Lockfile
+    Readme
+
+[33mcommit 2c518afe63d5513dd0ef545005b93e410e93f148[m
+Merge: 3d464e6 ecf1efd
+Author: Tom <20648924+moT01@users.noreply.github.com>
+Date:   Thu Apr 23 17:23:47 2020 -0500
+
+    Merge pull request #11 from DominusKelvin/patch-1
+    
+    Create .gitignore
+
+[33mcommit 3d464e6d91cbc1655fd8d339e957409921590965[m
+Merge: 2c9ffe8 b2b2330
+Author: Tom <20648924+moT01@users.noreply.github.com>
+Date:   Thu Apr 23 16:46:08 2020 -0500
+
+    Merge pull request #35 from scissorsneedfoodtoo/fix/sync-with-live-solution
+    
+    fix: sync with example project
+
+[33mcommit b2b2330cfc43340c1f31be30f51c422413a0ad74[m
+Author: Kristofer Koishigawa <scissorsneedfoodtoo@gmail.com>
+Date:   Thu Apr 23 15:42:35 2020 +0900
+
+    Update views/index.html
+    
+    Co-Authored-By: Oliver Eyton-Williams <ojeytonwilliams@gmail.com>
+
+[33mcommit 2e7849ad37716fbffdaacc61e60716dfc69584b2[m
+Author: Kris Koishigawa <scissorsneedfoodtoo@gmail.com>
+Date:   Thu Apr 23 01:15:26 2020 +0900
+
+    fix: update fCC URL
+
+[33mcommit f49fcf7c0c9a01b7b2fd480c3731efe587c95882[m
+Author: Kris Koishigawa <scissorsneedfoodtoo@gmail.com>
+Date:   Wed Apr 22 19:44:52 2020 +0900
+
+    fix: syncs index.html and README.md with the example project at https://curse-arrow.glitch.me/
+
+[33mcommit 2c9ffe8a380e175f59c7c3d7f8809f7486736176[m
+Author: Jacky Lui <jackymlui@live.com>
+Date:   Mon May 13 15:00:57 2019 +1000
+
+    Update index.html
+    
+    I changed the <li><code>GET [project url]/api/timestamp/1450137600000</code></li> line so that the link API returns the same time as it is stated.
+    
+    And I put the open bracket [ in front of project url because it seems to be missing that.
+
+[33mcommit 5cdcd62ed963752dd315fe7ddfb7181f4c1722ea[m
+Author: Hassaan Pasha <hassaan.pasha@teamo.io>
+Date:   Fri Mar 20 11:08:03 2020 +0500
+
+    fix (curriculum): updated guidelines for the boilerplate text to match with the demo
+
+[33mcommit ecf1efd1ee99fe4f107035e5897fd3100218b4ec[m
+Author: Omereshone Kelvin Oghenerhoro <kelvinomereshone@gmail.com>
+Date:   Fri Dec 14 12:37:09 2018 +0100
+
+    Create .gitignore
+    
+    A fallback for users without a global exclude configuration for git set up.
+
+[33mcommit 8123554e2d75bb1d39ca48cb79e1dc4ae3334ea9[m
+Author: System <none>
+Date:   Sat Feb 18 18:54:04 2017 +0000
+
+    Initial commit from Gomix.
+
+[33mcommit 92a485ced6fc9e89370ff6296213cf3e6330609d[m
+Author: Joseph Livengood <JoeyLivengood@gmail.com>
+Date:   Sat Feb 18 13:53:31 2017 -0500
+
+    Initial commit
+
+                   SSUUMMMMAARRYY OOFF LLEESSSS CCOOMMMMAANNDDSS
+
+      Commands marked with * may be preceded by a number, _N.
+      Notes in parentheses indicate the behavior if _N is given.
+      A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.
+
+  h  H                 Display this help.
+  q  :q  Q  :Q  ZZ     Exit.
+ ---------------------------------------------------------------------------
+
+                           MMOOVVIINNGG
+
+  e  ^E  j  ^N  CR  *  Forward  one line   (or _N lines).
+  y  ^Y  k  ^K  ^P  *  Backward one line   (or _N lines).
+  f  ^F  ^V  SPACE  *  Forward  one window (or _N lines).
+  b  ^B  ESC-v      *  Backward one window (or _N lines).
+  z                 *  Forward  one window (and set window to _N).
+  w                 *  Backward one window (and set window to _N).
+  ESC-SPACE         *  Forward  one window, but don't stop at end-of-file.
+  d  ^D             *  Forward  one half-window (and set half-window to _N).
+  u  ^U             *  Backward one half-window (and set half-window to _N).
+  ESC-)  RightArrow *  Right one half screen width (or _N positions).
+  ESC-(  LeftArrow  *  Left  one half screen width (or _N positions).
+  ESC-}  ^RightArrow   Right to last column displayed.
+  ESC-{  ^LeftArrow    Left  to first column.
+  F                    Forward forever; like "tail -f".
+  ESC-F                Like F but stop when search pattern is found.
+  r  ^R  ^L            Repaint screen.
+  R                    Repaint screen, discarding buffered input.
+        ---------------------------------------------------
+        Default "window" is the screen height.
+        Default "half-window" is half of the screen height.
+ ---------------------------------------------------------------------------
+
+                          SSEEAARRCCHHIINNGG
+
+                   SSUUMMMMAARRYY OOFF LLEESSSS CCOOMMMMAANNDDSS
+
+      Commands marked with * may be preceded by a number, _N.
+      Notes in parentheses indicate the behavior if _N is given.
+      A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.
+
+  h  H                 Display this help.
+  q  :q  Q  :Q  ZZ     Exit.
+ ---------------------------------------------------------------------------
+
+                           MMOOVVIINNGG
+
+  e  ^E  j  ^N  CR  *  Forward  one line   (or _N lines).
+  y  ^Y  k  ^K  ^P  *  Backward one line   (or _N lines).
+  f  ^F  ^V  SPACE  *  Forward  one window (or _N lines).
+  b  ^B  ESC-v      *  Backward one window (or _N lines).
+  z                 *  Forward  one window (and set window to _N).
+  w                 *  Backward one window (and set window to _N).
+  ESC-SPACE         *  Forward  one window, but don't stop at end-of-file.
+  d  ^D             *  Forward  one half-window (and set half-window to _N).
+  u  ^U             *  Backward one half-window (and set half-window to _N).
+  ESC-)  RightArrow *  Right one half screen width (or _N positions).
+  ESC-(  LeftArrow  *  Left  one half screen width (or _N positions).
+  ESC-}  ^RightArrow   Right to last column displayed.
+  ESC-{  ^LeftArrow    Left  to first column.
+  F                    Forward forever; like "tail -f".
+  ESC-F                Like F but stop when search pattern is found.
+  r  ^R  ^L            Repaint screen.
+  R                    Repaint screen, discarding buffered input.
+        ---------------------------------------------------
+        Default "window" is the screen height.
+        Default "half-window" is half of the screen height.
+ ---------------------------------------------------------------------------
+
+                          SSEEAARRCCHHIINNGG
