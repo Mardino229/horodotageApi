@@ -45,7 +45,7 @@ app.get("/api/:date", function (req, res) {
       );
     }
     if (date2 instanceof Date && !isNaN(date2)){
-      const unix = req.params.date;
+      const unix = req.params.date*1;
       const utc = `${date2.toUTCString()}`
       res.json(
           {unix: unix, utc: utc,}
